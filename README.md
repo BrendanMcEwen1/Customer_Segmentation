@@ -3,6 +3,7 @@
 ## Agglomerative Clustering to Identify Customer Segments
 
 Using Python to explore customer spending behaviour and group customers into sub-segments for targeted marketing
+
 Notebook includes:
 
 - Data Exploration and Cleaning
