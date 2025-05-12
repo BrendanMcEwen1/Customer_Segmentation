@@ -37,7 +37,11 @@ Notebook includes:
 
 # Main Takeaways
 
-This dataset was condensed down into three principal components, and then split into four segments or 'Clusters'. We plotted each customer according to its position in three-dimensional principal component space, and coloured the customers by their segment/`Cluster` membership:
+This dataset came from a botique store that sold wines, sweets, meats, gold, and other products. In this notebook I wanted to perform cluster segmentation in order to uncover hidden groups within the overall dataset, understand what purchasing habits or demographic traits unite the members of each group, and then think of a way to perform targeted marketing for each group. 
+
+Purchasing behaviour features included the amount of spend on each category, the amount of time they were a customer, and their income. Demographic features included their relationship status, whether they had children or not, and their overall household occupancy.
+
+To perform the cluster analysis, this dataset was condensed down into three principal components, and then split into four segments or 'Clusters'. We plotted each customer according to its position in three-dimensional principal component space, and coloured the customers by their segment/`Cluster` membership:
 
 ![PCA Cluster Graph](Visuals/PCA_Cluster_graph.png)
 
