@@ -47,7 +47,7 @@ To perform the cluster analysis, this dataset was condensed down into three prin
 
 <br>
 
-The principal components do a pretty good job separating our clusters, but each principal component itself is an orthogonal projection of correlated variance among multiple features (quite the mouthful). In this sense, we can't just look at where a customer  is in principal-component-space and immediately understand what their actual feature values might be (e.g. what their income was, or how much money they spent). So we need to 'decompose' these principal components back into the features that underly them, to help us *profile* our customer segments and understand what makes each segment different from the rest.
+The principal components do a pretty good job separating our clusters, but each principal component itself is an orthogonal projection of correlated variance among multiple features (quite the mouthful). In this sense, we can't just look at where a customer  is in principal-component-space and immediately understand what their actual feature values might be (e.g. what their income was, or how much money they spent). So we need to 'decompose' these principal components back into the features (customer behaviour, demographics, etc.) that underly them, to help us *profile* our customer segments and understand what makes each segment different from the rest.
 
 Income and amount of money spent seems like a good place to start,  so let's visualize that first and see if it provides us any cluster separation:
 
