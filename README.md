@@ -37,7 +37,7 @@ Notebook includes:
 
 # Main Takeaways
 
-This dataset came from a botique store that sold wines, sweets, meats, gold, and other products. In this notebook I wanted to perform cluster segmentation in order to uncover hidden groups within the overall dataset, understand what purchasing habits or demographic traits unite the members of each group, and then think of a way to perform targeted marketing for each group. 
+This dataset came from a botique store that sold wines, sweets, meats, gold, and other products. In this notebook I wanted to perform cluster segmentation in order to uncover hidden groups within the overall dataset, understand what purchasing habits or demographic traits unite the members of each group, and then think of a way to perform targeted marketing for each group.  
 
 Purchasing behaviour features included the amount of spend on each category, the amount of time they were a customer, and their income. Demographic features included their relationship status, whether they had children or not, and their overall household occupancy.
 
